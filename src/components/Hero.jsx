@@ -1,6 +1,5 @@
 import { CogIcon } from "@heroicons/react/16/solid";
 
-
 const Hero = () => {
   return (
     <section
@@ -15,7 +14,7 @@ const Hero = () => {
           </h1>
           <p className="mt-4 text-gray-600 text-lg">
             Launch your product without having to worry about co-founder
-            dynamics and stressfull freelancer management, who do not share the
+            dynamics and stressful freelancer management, who do not share the
             same vision with you and will slow down your progress or even quit
             at the time you need them most, leaving your business into
             extinction.
@@ -32,7 +31,7 @@ const Hero = () => {
 
         {/* Illustration */}
         <div className="lg:w-1/2 mt-8 lg:mt-0 flex justify-center">
-            <CogIcon className="w-2/3 text-blue-500" />
+          <CogIcon className="w-2/3 text-blue-500 md:w-1/2 lg:w-1/3" />
         </div>
       </div>
     </section>
