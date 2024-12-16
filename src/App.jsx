@@ -3,6 +3,8 @@ import Hero from "./components/Hero";
 import AboutSection from "./components/AboutSection";
 import PricingSection from "./components/PricingSection";
 import ContactForm from "./components/ContactForm";
+import "./App.css";
+
 
 const App = () => (
   <div>
