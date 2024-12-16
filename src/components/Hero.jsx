@@ -19,14 +19,14 @@ const Hero = () => {
             at the time you need them most, leaving your business into
             extinction.
           </p>
-          <div className="mt-6">
+          {/* <div className="mt-6">
             <a
               href="#"
               className="bg-blue-600 text-white px-6 py-3 rounded-md shadow-lg hover:bg-blue-700 transition duration-300"
             >
               Get Started
             </a>
-          </div>
+          </div> */}
         </div>
 
         {/* Illustration */}

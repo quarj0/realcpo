@@ -3,6 +3,7 @@ import Hero from "./components/Hero";
 import AboutSection from "./components/AboutSection";
 import PricingSection from "./components/PricingSection";
 import ContactForm from "./components/ContactForm";
+import Header from "./components/Header";
 import "./App.css";
 
 
@@ -10,6 +11,7 @@ const App = () => (
   <div>
     <Navbar />
     <Hero />
+    <Header />
     <AboutSection />
     <PricingSection />
     <ContactForm />
